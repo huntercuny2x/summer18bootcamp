@@ -24,6 +24,8 @@ Schedule
 
 * Project: HTML/CSS profile  
 
+* Independent: Group students by companies, begin research for first 5-min presentation, stand up about progress
+
 * [Homework: This Git tutorial](https://try.github.io/levels/1/challenges/1)
 
 #### Day 2: Git/Github/Collaborative Software Dev
@@ -36,7 +38,6 @@ Schedule
 
 * Assignment: Collaboration Workshop
 
-* Independent: Group students by companies, begin research for first 5-min presentation, stand up about progress
 
 #### Day 3: Javascript: Syntax, Overview, Objects
 Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
