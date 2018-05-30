@@ -122,6 +122,7 @@ We will be using github to turn in our assignments. For those new to git, we wil
    3. Modify the files and [**commit**](http://gitref.org/basic/#commit) changes to submit your work.   
    4. [**Push**](http://gitref.org/remotes/#push)/sync the changes up to GitHub.    
    5. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request/) on the original repository to turn in the assignment. Do not merge the Pull Request.
+   5. [**Updating Work**]If you make changes to your assignments and want to re-submit them for consideration/code review, commit the new changes to your repository, and make a new pull request with the word UPDATE next to your name/repository URL. You can re-submit work at any time during the TTP course.
 
 I also recommend using Github Pages to host your projects, but you are welcome to use any hosting services that you are comofrtable with.
 
