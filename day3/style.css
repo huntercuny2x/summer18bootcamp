@@ -1,5 +1,4 @@
 .header {
-     display: flex;
      width: 100%;
      margin-bottom:3%;
      background-color: #b0e0e6;
@@ -10,6 +9,12 @@
      font-size: 30px;
      color: white;
      margin-left: 2%;
+}
+
+#credittext {
+     font-size: 20px;
+     color: black;
+     margin-right: 1%;
 }
 
 .container {
