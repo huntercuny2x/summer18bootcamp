@@ -1,0 +1,38 @@
+.header {
+     width: 100%;
+     margin-bottom:3%;
+     background-color: #b0e0e6;
+     height: 7%;
+}
+
+#titletext {
+     font-size: 30px;
+     color: white;
+     margin-left: 2%;
+}
+
+#credittext {
+     font-size: 20px;
+     color: black;
+     margin-right: 1%;
+}
+
+.container {
+     display: flex;
+     justify-content: center;
+     flex-direction: row;
+     width: 100%;
+     margin-top: 5%;
+}
+
+#argument {
+     width: 30%;
+}
+
+#hoverfail {
+     width: 30%;
+}
+
+#badvolumecalc {
+     width: 30%;
+}
