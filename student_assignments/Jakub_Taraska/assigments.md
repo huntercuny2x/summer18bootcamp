@@ -1,0 +1,11 @@
+### Day 1
+[Jakub Taraska:](https://github.com/Jkb6873/Jkb6873.github.io)
+
+### Day 2
+[Jakub Taraska:](https://github.com/andgly95/CUNY2X-Assignment-Two)
+
+### Day 3 Project #1 (Basic JS DOM manipulation)
+[Jakub Taraska:](https://github.com/asdacq/TTP/tree/master/Day3)
+
+### Day 3 Project #2 (Intro to OO JS)
+[Jakub Taraska:](https://github.com/asdacq/TTP/tree/master/Day3)
