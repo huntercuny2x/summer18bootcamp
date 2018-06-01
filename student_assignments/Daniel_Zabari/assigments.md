@@ -1,6 +1,6 @@
 [Day 1](https://github.com/Zabari/cuny2x/tree/master/homework/day1)
 
-[Day 2 Group Project with Aaron Taveras, Renat Khalikov] https://github.com/Zabari/plaintextsins)
+[Day 2 Group Project with Aaron Taveras, Renat Khalikov](https://github.com/Zabari/plaintextsins)
 
 [Day 3 Group Project with Matthew Binshtok](https://github.com/matthewbinshtok/day3website)
 
