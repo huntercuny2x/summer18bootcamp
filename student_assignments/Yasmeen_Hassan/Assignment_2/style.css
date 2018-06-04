@@ -1,0 +1,47 @@
+.hp{
+  background-image: url("photos/9.jpg");
+}
+.gallery{
+  background-color: rgb(163, 75, 104);
+}
+a{
+  color: yellow;
+  text-decoration: line-through;
+}
+h1{
+  color: yellow;
+  font-size: 80px;
+  margin-top: 17%;
+  text-align: center;
+  word-spacing: 20px;
+}
+h2{
+  font-size: 60px;
+  color: white;
+  margin-left: 30%;
+  word-spacing: 24px;
+
+}
+p{
+  text-align: center;
+  color:gray;
+  font-size: 18px;
+}
+.container{
+  display: block;
+  margin-left: 30%;
+
+}
+/***************************************************/
+/*      GALLERY STYLE             */
+/***************************************************/
+img {
+    border: 10px solid white;
+    border-radius: 2px;
+    padding: 1px;
+    width: 50px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 240, 180, .9);
+  }
