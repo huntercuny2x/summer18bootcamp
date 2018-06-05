@@ -1,0 +1,44 @@
+
+.h1{
+  color: white;
+  font-family: courier;
+  font-size: 50px;
+  margin-top: 15%;
+  text-align: center;
+}
+.background {
+    position: relative;
+    background: #fff url("img1.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+/*******************************/
+/* Button style from (w3school)*/
+/*******************************/
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 34px 2px;
+  margin-left: 55%;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1{
+  background-color: beige;
+  color:purple;
+  border: 2px solid purple;
+}
+.button1:hover {
+    background-color: purple; /* Green */
+    color: white;
+}
