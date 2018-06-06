@@ -8,3 +8,7 @@
 [Day 3B](https://github.com/skabir8/C2X/tree/master/day3/OOJS)
 
 [Day 4](https://github.com/skabir8/juke_box)
+
+[To-Do](https://github.com/skabir8/C2X/tree/master/Day6/my_app)
+
+[Weather](https://github.com/skabir8/C2X/tree/master/Day6/weather)
