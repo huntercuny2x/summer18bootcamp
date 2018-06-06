@@ -7,3 +7,7 @@
 * [React Documentation](https://reactjs.org/docs/hello-world.html)
 
 * [Node Installation](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+
+
+#### Intro to React link
+[Intro_to_React Github Repo](https://github.com/bpaksoy/Intro_to_React)
