@@ -49,13 +49,13 @@ Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
 
 #### Day 6: Continuing with React: Weather App with Bootstrap, Updating To-Do List
 
-#### Day 7: React Tic Tac Toe 
+#### Day 7: React Social Card App pt 1
 
-#### Day 8: React Project Day
+#### Day 8: React Social Card App pt 2
 
 #### Day 9: Intro to Jquery/Ajax
 
-#### Day 10: Intro to server side (node, flask, ruby, etc)
+#### Day 10: Intro to server side 
 
 * Intro to node with Twitterbot walk through
 
