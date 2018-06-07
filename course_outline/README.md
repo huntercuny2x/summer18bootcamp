@@ -53,28 +53,24 @@ Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
 
 #### Day 8: React Social Card App pt 2
 
-#### Day 9: Intro to Jquery/Ajax
-
-#### Day 10: Intro to server side 
+#### Day 9: Intro to server side 
 
 * Intro to node with Twitterbot walk through
 
 * Mini project: Build a bot
 
-#### Day 11: Express/routing/templating
+#### Day 10: Express/routing/templating
 * Mini Express project: Hello World
 
 * Second Express project: To Do app?
 
-#### Day 12: Node + Express + API calls
+#### Day 11: Node + Express
 
-* Building an API
+#### Day 12: Databases: SQL + Postgres
 
-* Fetch calls
+#### Day 13: More Databases + Test Driven Development Lesson
 
-#### Day 13: Databases: SQL + Postgres
-
-#### Day 14: More Databases + Test Driven Development Lesson
+#### Day 14: Promises + API calls
 
 #### Day 15: Soft skills training?
 
