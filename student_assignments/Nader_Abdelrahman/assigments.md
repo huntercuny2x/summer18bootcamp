@@ -8,4 +8,4 @@
 
 [Day 4](https://github.com/eXrump/JukeBox)
 
-[Day 5-6](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%205-6/To-Do)
+[Day 5-7](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%207/To-Do)
