@@ -20,4 +20,8 @@ juke box: https://github.com/eXrump/JukeBox
 
 Day 7:
 
-To do list with remove (collaborative effort with Dmitry): https://github.com/AaronPNg/to_do_list_react
+To do list with remove (collaborative effort with Dmitry): 
+https://github.com/AaronPNg/to_do_list_react
+
+Social media app: 
+https://github.com/asdacq/Social_News_Feed_App
