@@ -9,3 +9,5 @@
 [Day 4 (with Matthew Binshtok & Noam Sohn)](https://github.com/pacqu/jukejukebox)
 
 [Day 7 To-Do List] (https://github.com/pacqu/cuny2xworkshops/tree/master/day7/ToDoList)
+
+[Day 8 React Social Cards (with Matthew Binshtok & Rakib Hassan)] (https://github.com/matthewbinshtok/cheezy) 
