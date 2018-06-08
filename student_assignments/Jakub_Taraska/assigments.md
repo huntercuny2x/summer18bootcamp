@@ -7,3 +7,5 @@
 [Day 3 OO project](https://github.com/asdacq/TTP/tree/master/Day3)
 
 [Day 4](https://github.com/zyuzon24/JukeboxProject)
+
+[Day 6](https://github.com/Jkb6873/to-do-list)
