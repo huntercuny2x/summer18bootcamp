@@ -13,3 +13,5 @@
 [Day 8 React Social Cards with Aaron Taveras](https://github.com/Zabari/newsFeed)
 
 [Day 9 Twitter Bot](https://github.com/Zabari/cuny2x/tree/master/twitterbot)
+
+[Twitter Link](https://twitter.com/RobotZ16)
