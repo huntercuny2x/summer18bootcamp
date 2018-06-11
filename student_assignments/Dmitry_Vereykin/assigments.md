@@ -15,3 +15,9 @@
 [Day7_To_Do_List_App](https://github.com/eXrump/to_do_list_react)
 
 [Day7_To_Do_List_App_Deployed_Published](https://exrump.github.io/to_do_list_react/)
+
+[Day7_News_Social_Feed_Unfinished](https://github.com/eXrump/news_feed_app_react)
+
+[Day9_Twitter_Bot_Code](https://github.com/eXrump/twitter_bot)
+
+[Day9_Twitter_Bot_Link](https://twitter.com/bot_that_twits)
