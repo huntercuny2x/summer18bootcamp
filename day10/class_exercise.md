@@ -16,7 +16,7 @@ For example, if using EJS:
 * Install and save express and ejs
 * Create a views directory
 * Create a view called list.ejs in views to display a modified grocery list: display each store with its respective list
-* **sample data**
+##### **sample data: **
 ``` var data = {
     groceries: [{
     store: 'Acme',
