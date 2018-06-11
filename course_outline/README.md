@@ -38,56 +38,39 @@ Schedule
 
 * Assignment: Collaboration Workshop
 
-
 #### Day 3: Javascript: Syntax, Overview, Objects
 Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
 
 * DOM manipulation + mini project
 
-#### Day 4: Advanced Javascript + Jquery + Ajax
+#### Day 4: Advanced Javascript + DOM Manipulation + Jukebox Project
 
-#### Day 5: Intro to server side (node, flask, ruby, etc)
+#### Day 5: Intro to ECMAScript, Intro to React/React components
+
+#### Day 6: Continuing with React: Weather App with Bootstrap, Updating To-Do List
+
+#### Day 7: React Social Card App pt 1
+
+#### Day 8: React Social Card App pt 2
+
+#### Day 9: Intro to server side 
 
 * Intro to node with Twitterbot walk through
 
 * Mini project: Build a bot
 
-#### Day 6: Express/routing/templating
+#### Day 10: Express/routing/templating
 * Mini Express project: Hello World
 
 * Second Express project: To Do app?
 
-#### Day 7: Node + Express + API calls
+#### Day 11: Node + Express
 
-* Building an API
+#### Day 12: Databases: SQL + Postgres
 
-* Fetch calls
+#### Day 13: More Databases + Test Driven Development Lesson
 
-#### Day 8: Databases: SQL
-
-#### Day 9: Databases: Postgres/MongoDB
-
-#### Day 10: Database project
-
-#### Day 11: TDD Lesson in Mocha 
-
-#### Day 12: Intro to ECMAScript, Intro to React/React components
-
-* Build with React Tutorial?
- 
-#### Day 13: More React!
-
-* Events
-
-* React Forms
-
-* Deep Dive: React Components
-
-* React Lifecycle
-
-* React Tic Tac Toe? (can add min/max AI)
-
-#### Day 14: React project + independent deep dive tutorials
+#### Day 14: Promises + API calls
 
 #### Day 15: Soft skills training?
 
