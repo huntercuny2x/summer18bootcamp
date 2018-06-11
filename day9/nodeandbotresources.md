@@ -8,6 +8,10 @@
 
 [Working with package.json](https://docs.npmjs.com/getting-started/using-a-package.json)
 
+[Creating a Gitignore file](https://help.github.com/articles/ignoring-files/)
+
+[Common Gitignore configurations](https://gist.github.com/octocat/9257657)
+
 ##BOTS
 
 [One Twitterbot reference list](https://github.com/shiffman/A2Z-F16/wiki/Twitter-Bot-References)
