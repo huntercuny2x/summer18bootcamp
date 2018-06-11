@@ -4,3 +4,5 @@
 tbd (photo album)
 tbd (Jukebox)
 [To-doList](https://github.com/Yasmeenerm/cuny2x/tree/master/Bootcamp/to_doList)
+[Social Media React App](https://github.com/Yasmeenerm/Tweeter)
+[Twitter Bot](https://github.com/Yasmeenerm/cuny2x/tree/master/Bootcamp/twitter)
