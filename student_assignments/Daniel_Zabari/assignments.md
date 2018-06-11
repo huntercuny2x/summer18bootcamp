@@ -15,3 +15,9 @@
 [Day 9 Twitter Bot](https://github.com/Zabari/cuny2x/tree/master/twitterbot)
 
 [Twitter Link](https://twitter.com/RobotZ16)
+
+[Handlebars](https://github.com/Zabari/cuny2x/tree/master/hjs_ex)
+
+[EJS](https://github.com/Zabari/cuny2x/tree/master/ejs_ex)
+
+[Pug](https://github.com/Zabari/cuny2x/tree/master/pug_ex)
