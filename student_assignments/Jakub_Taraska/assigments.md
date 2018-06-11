@@ -9,3 +9,5 @@
 [Day 4](https://github.com/zyuzon24/JukeboxProject)
 
 [Day 6](https://github.com/Jkb6873/to-do-list)
+
+[Day 9 Github](https://github.com/Jkb6873/MashBot) [Day 9 Twitter](https://twitter.com/Mashbot2)
