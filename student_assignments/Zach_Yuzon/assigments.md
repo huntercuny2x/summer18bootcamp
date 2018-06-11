@@ -14,3 +14,5 @@ Day 8 (Social Media w/ Yasmeen and Aisha): https://github.com/Yasmeenerm/cuny2x/
 
 Day 9 (TwitterBot): https://github.com/zyuzon24/TTP_Projects/tree/master/Day_9_Practice/TwitterBotProject
                   : https://twitter.com/shbettybrocker
+
+Day 10 (Express. The 3 files are 'ejs-exercise', 'handlebars-exercise', and 'pug-exercise'. Ignore 'Express_Practice'): https://github.com/zyuzon24/TTP_Projects/tree/master/Day_10_Practice
