@@ -6,6 +6,8 @@
 
 [Day 3 Project #2 (Intro to OO JS)](https://github.com/renkh/cuny2x/tree/master/day3/oojsminiproject)
 
-[Day4](https://github.com/renkh/Jukebox-Player)
+[Day4 (Jukebox Player)](https://github.com/renkh/Jukebox-Player)
 
-[Day5](https://github.com/renkh/cuny2x/tree/master/day5/my_app)
+[Day7 (To-Do App)](https://github.com/renkh/cuny2x/tree/master/day5/my_app)
+
+[Day8 (Social News)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day7/social_news)
