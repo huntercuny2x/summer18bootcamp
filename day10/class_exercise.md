@@ -17,7 +17,7 @@ For example, if using EJS:
 * Create a views directory
 * Create a view called list.ejs in views to display a modified grocery list: display each store with its respective list
 * **sample data**
-* var data = {
+``` var data = {
     groceries: [{
     store: 'Acme',
     list: [
@@ -33,4 +33,4 @@ For example, if using EJS:
         'tomatoes'
     ]
     }]
-};
+}; ```
