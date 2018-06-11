@@ -10,4 +10,6 @@
 
 [Day 7 To-Do List] (https://github.com/pacqu/cuny2xworkshops/tree/master/day7/ToDoList)
 
-[Day 8 React Social Cards (with Matthew Binshtok & Rakib Hassan)] (https://github.com/matthewbinshtok/cheezy) 
+[Day 8 React Social Cards (with Matthew Binshtok & Rakib Hassan)] (https://github.com/matthewbinshtok/cheezy)
+
+[Day 9 Twitter Bot - @SpiritLyricBot](https://github.com/pacqu/cuny2xworkshops/tree/master/day9)
