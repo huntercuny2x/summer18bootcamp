@@ -21,3 +21,5 @@
 [Day9_Twitter_Bot_Code](https://github.com/eXrump/twitter_bot)
 
 [Day9_Twitter_Bot_Link](https://twitter.com/bot_that_twits)
+
+[Day10_EJS_Veiw_Exercise](https://github.com/eXrump/ejs_view_exercise_app)
