@@ -7,3 +7,5 @@
 [Day 3 pt2](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%203/Mini%20Project)
 
 [Day 4](https://github.com/eXrump/JukeBox)
+
+[Day 5-7](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%207/To-Do)
