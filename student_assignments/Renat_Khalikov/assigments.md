@@ -11,3 +11,7 @@
 [Day7 (To-Do App)](https://github.com/renkh/cuny2x/tree/master/day5/my_app)
 
 [Day8 (Social News)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day7/social_news)
+
+[Day9 (Twitter Bot) @@catbot488](https://github.com/renkh/Twitter-Bot)
+
+[Day10 (Express app)]()
