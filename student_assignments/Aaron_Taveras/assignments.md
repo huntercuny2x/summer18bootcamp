@@ -14,3 +14,7 @@
 [Day 9 Twitter Bot]()
 
 [Day 10 EJS](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/ejs_ex)
+
+[Day 10 HandleBars](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/hjs_ex)
+
+[Day 10 Pug](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/pug_ex)
