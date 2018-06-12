@@ -12,3 +12,15 @@ https://github.com/pacqu/jukejukebox
 
 ### Day 7 Homework (To-Do List App):
 https://github.com/matthewbinshtok/To-Do-List-React
+
+### Day 8 React Social Network (w Justin Pacquing and Rakib Hassan):
+https://github.com/matthewbinshtok/cheezy
+
+### Day 9 TwitterBot
+https://github.com/matthewbinshtok/cuny2xprojects/tree/master/node-demo
+
+### Day 10 Express Rendering (w Justin Pacquing)
+https://github.com/pacqu/ExpressRendering
+
+### Day 11 More Express Rendering
+https://github.com/matthewbinshtok/cuny2xprojects/tree/master/express-day2
