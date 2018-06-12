@@ -21,3 +21,7 @@
 [EJS](https://github.com/Zabari/cuny2x/tree/master/ejs_ex)
 
 [Pug](https://github.com/Zabari/cuny2x/tree/master/pug_ex)
+
+[Day 11 Variable Routing](https://github.com/Zabari/cuny2x/tree/master/routeEx)
+
+[Day 11 Persistent Data](https://github.com/Zabari/cuny2x/tree/master/jsonEx)
