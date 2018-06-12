@@ -13,3 +13,5 @@
 [Day 8 React Social Cards (with Matthew Binshtok & Rakib Hassan)](https://github.com/matthewbinshtok/cheezy)
 
 [Day 9 Twitter Bot - @SpiritLyricBot](https://github.com/pacqu/cuny2xworkshops/tree/master/day9)
+
+[Day 10 Express Exercises](https://github.com/pacqu/ExpressRendering)
