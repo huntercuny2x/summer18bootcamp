@@ -53,34 +53,30 @@ Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
 
 #### Day 8: React Social Card App pt 2
 
-#### Day 9: Intro to Jquery/Ajax
-
-#### Day 10: Intro to server side 
+#### Day 9: Intro to server side 
 
 * Intro to node with Twitterbot walk through
 
 * Mini project: Build a bot
 
-#### Day 11: Express/routing/templating
-* Mini Express project: Hello World
+#### Day 10: Express/routing/templating
+* Mini Express project: Rendering a list with three different templating engines (EJS, Handlebars, Pug)
 
-* Second Express project: To Do app?
+#### Day 11: Node + Express
+* Mini Express project #2: Rendering a list with variable routes
+* Reading and writing to JSON files
 
-#### Day 12: Node + Express + API calls
+#### Day 12: Databases: SQL + Postgres
 
-* Building an API
+#### Day 13: More Databases + Test Driven Development Lesson
 
-* Fetch calls
+#### Day 14: Promises + API calls
 
-#### Day 13: Databases: SQL + Postgres
-
-#### Day 14: More Databases + Test Driven Development Lesson
-
-#### Day 15: Soft skills training?
+#### Day 15: Soft skills training: Technical Presentations, Code Reviews and Collaboration in the Workplace
 
 #### Day 16-18: Project building
 
-#### Day 19: Student presentations
+#### Day 19: Student presentations: Room 1203E from 2-4pm
 
 
 Teaching Methodology
@@ -117,7 +113,7 @@ I also recommend using Github Pages to host your projects, but you are welcome t
 Attendance & Participation
 --------------------------
 
-* Attendance is mandatory. Every class builds off the previous one so it is vital to be present for every lesson. Unexcused absences or habitual lateness will negatively impact your final grade for the class. If you are going to be late or absent, please message me on Slack **in advance**. If you have an emergency, please let me know as soon as you can. You will need to communicate absences/lateness to both Sarah and Elise.
+* Attendance is mandatory. Every class builds off the previous one so it is vital to be present for every lesson. If you are going to be late or absent, please message me on Slack **in advance**. If you have an emergency, please let me know as soon as you can. You will need to communicate absences/lateness to both Sarah and Elise.
 
 * Showing up on time, engaging in the class discussion, and offering advice and input during class is a major part of this cohort. Participating in class is helpful for me to get to know you as an individual and keep track of your progress, but most importantly, it provides you and your classmates the opportunity to share failures, successes, and insights on the work you are doing.
 
