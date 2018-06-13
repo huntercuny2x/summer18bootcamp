@@ -22,3 +22,5 @@
 [Day 11 Express List](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/list_app)
 
 [Day 11 JSON Save](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/json_project)
+
+[Day 12 Weather App](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/weather_app)
