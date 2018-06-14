@@ -16,3 +16,7 @@
 [@SpiritLyricBot - Link to Twitter Page](https://twitter.com/SpiritLyricBot)
 
 [Day 10 Express Exercises](https://github.com/pacqu/ExpressRendering)
+
+[Day 11 Templating](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/templating2)
+
+[Day 11 JSON](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/expressJSON)
