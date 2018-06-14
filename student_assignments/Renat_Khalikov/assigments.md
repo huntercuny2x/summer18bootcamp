@@ -17,3 +17,5 @@
 [Day10 (Express app)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day10)
 
 [Day11 (express app](https://github.com/renkh/Express-web-framework)
+
+[Day11 (weather app)](https://github.com/renkh/cuny2x/tree/master/day12/weatherapp)
