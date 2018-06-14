@@ -21,3 +21,5 @@ Day 11A: https://github.com/RakibHassan96/CUNY2x_BootCamp/tree/master/Classwork/
 Day 11B: https://github.com/skabir8/save_json
 
 Day 12: https://github.com/RakibHassan96/CUNY2x_BootCamp/tree/master/Classwork/Day%2012/weather-app
+
+Day 13: https://github.com/RakibHassan96/CUNY2x_BootCamp/tree/master/Classwork/Day%2013/starwarsPSQL
