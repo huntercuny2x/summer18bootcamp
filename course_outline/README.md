@@ -59,6 +59,8 @@ Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
 
 * Mini project: Build a bot
 
+[List of public APIs](https://github.com/toddmotto/public-apis)
+
 #### Day 10: Express/routing/templating
 * Mini Express project: Rendering a list with three different templating engines (EJS, Handlebars, Pug)
 
