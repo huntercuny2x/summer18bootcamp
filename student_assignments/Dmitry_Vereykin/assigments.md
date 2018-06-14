@@ -22,4 +22,10 @@
 
 [Day9_Twitter_Bot_Link](https://twitter.com/bot_that_twits)
 
-[Day10_EJS_Veiw_Exercise](https://github.com/eXrump/ejs_view_exercise_app)
+[Day10_All_Veiws_Exercise](https://github.com/eXrump/express_views_exercise_app)
+
+[Day11_Express_Routing_E3](https://github.com/eXrump/express_ejs_e3_app)
+
+[Day11_Input_Form_JSON_File](https://github.com/eXrump/express_ejs_input_form_app)
+
+[Day12_Express_Weather and_News API](https://github.com/eXrump/express_weather_app)
