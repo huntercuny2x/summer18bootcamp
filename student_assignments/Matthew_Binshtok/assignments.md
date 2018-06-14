@@ -17,8 +17,8 @@ https://github.com/matthewbinshtok/To-Do-List-React
 https://github.com/matthewbinshtok/cheezy
 
 ### Day 9 TwitterBot
-https://github.com/matthewbinshtok/cuny2xprojects/tree/master/node-demo
-https://twitter.com/worldcupbot
+* https://github.com/matthewbinshtok/cuny2xprojects/tree/master/node-demo
+* https://twitter.com/worldcupbot
 
 ### Day 10 Express Rendering (w Justin Pacquing)
 https://github.com/pacqu/ExpressRendering
