@@ -16,3 +16,10 @@ Day 9 (TwitterBot): https://github.com/zyuzon24/TTP_Projects/tree/master/Day_9_P
                   : https://twitter.com/shbettybrocker
 
 Day 10 (Express. The 3 files are 'ejs-exercise', 'handlebars-exercise', and 'pug-exercise'. Ignore 'Express_Practice'): https://github.com/zyuzon24/TTP_Projects/tree/master/Day_10_Practice
+
+Day 11: (Front-End List Assignment) https://github.com/zyuzon24/TTP_Projects/tree/master/Day_11_Practice/Front-End%20List
+        (Express Form Assignment) https://github.com/zyuzon24/TTP_Projects/tree/master/Day_11_Practice/WritingData
+
+Day 12: (Weather App and other Practice with Express) https://github.com/zyuzon24/TTP_Projects/tree/master/Day_12_Practice
+
+Day 13: (Star Wars PSQL Assignment) https://github.com/zyuzon24/TTP_Projects/blob/master/Day_13_Practice/README.md

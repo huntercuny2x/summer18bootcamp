@@ -12,6 +12,13 @@
 
 [Day 8 React Social Cards (with Matthew Binshtok & Rakib Hassan)](https://github.com/matthewbinshtok/cheezy)
 
-[Day 9 Twitter Bot - @SpiritLyricBot](https://github.com/pacqu/cuny2xworkshops/tree/master/day9)
+[Day 9 Twitter Bot](https://github.com/pacqu/cuny2xworkshops/tree/master/day9)
+[@SpiritLyricBot - Link to Twitter Page](https://twitter.com/SpiritLyricBot)
 
 [Day 10 Express Exercises](https://github.com/pacqu/ExpressRendering)
+
+[Day 11 Templating](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/templating2)
+
+[Day 11 JSON](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/expressJSON)
+
+[Day 12 PSQL Exercises](https://github.com/pacqu/cuny2xworkshops/blob/master/day12/answers.txt)
