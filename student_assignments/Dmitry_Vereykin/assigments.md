@@ -29,3 +29,5 @@
 [Day11_Input_Form_JSON_File](https://github.com/eXrump/express_ejs_input_form_app)
 
 [Day12_Express_Weather and_News API](https://github.com/eXrump/express_weather_app)
+
+[Day13_PSQL_Starwars_Solution in CVS file](https://github.com/eXrump/cuny2x/tree/master/PSQL%20Starwars)
