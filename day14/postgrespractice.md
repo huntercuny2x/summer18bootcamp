@@ -2,10 +2,15 @@
 
 #### Common psql commands
 psql is the PostgreSQL command line interface
+
 \?         /* help: list available commands */
+
 \c my_app  /* connect to database 'my_app' */
+
 \dt+       /* list tables */
+
 \d+ fruit  /* describe table 'fruit' */
+
 \q         /* quit */
 
 
