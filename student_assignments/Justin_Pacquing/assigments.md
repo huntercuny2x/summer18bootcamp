@@ -20,3 +20,5 @@
 [Day 11 Templating](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/templating2)
 
 [Day 11 JSON](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/expressJSON)
+
+[Day 12 PSQL Exercises](https://github.com/pacqu/cuny2xworkshops/blob/master/day12/answers.txt)
