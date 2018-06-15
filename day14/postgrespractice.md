@@ -2,14 +2,19 @@
 
 #### Common psql commands
 psql is the PostgreSQL command line interface
+
 \?         /* help: list available commands */
+
 \c my_app  /* connect to database 'my_app' */
+
 \dt+       /* list tables */
+
 \d+ fruit  /* describe table 'fruit' */
+
 \q         /* quit */
 
 
-##### Create a table 
+#### Create a table 
 
 Create a named table with some information about each record. Right now we'll be creating a table about hats:
 create table hats (
@@ -32,7 +37,6 @@ insert into hats (name, material, height, brim) values
   ('cloche', 'felt', 6, false),
   ('chicken', 'bwuk bwuk bwuk', 12, false);
 
-
 #### PostgresSQL commands: select, where
 Retrieves information from a table, optionally given conditions.
 
@@ -49,6 +53,7 @@ delete from hats where name = 'chicken';
 
 alter table hats add column price integer;
 
-#### Finally
+#### Final Exercise
+
 Add three new hats to the hats table.
 Select all the hats that are made of felt.
