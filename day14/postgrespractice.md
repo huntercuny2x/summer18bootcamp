@@ -9,7 +9,7 @@ psql is the PostgreSQL command line interface
 \q         /* quit */
 
 
-##### Create a table 
+#### Create a table 
 
 Create a named table with some information about each record. Right now we'll be creating a table about hats:
 create table hats (
@@ -33,20 +33,20 @@ insert into hats (name, material, height, brim) values
 
 
 
- (Links to an external site.)Links to an external site.PostgresSQL commands: select, where
+#### PostgresSQL commands: select, where
 Retrieves information from a table, optionally given conditions.
 select * from hats;
 select * from hats where name = 'top hat';
 select count(*) from hats;
 
- (Links to an external site.)Links to an external site.PostgreSQL commands: delete from
+#### PostgreSQL commands: delete from
 Removes data from a table that meet given conditions.
 delete from hats where name = 'chicken';
 
- (Links to an external site.)Links to an external site.PostgreSQL commands: alter
+#### PostgreSQL commands: alter
 Modify a table.
 alter table hats add column price integer;
 
- (Links to an external site.)Links to an external site.Exercise
+#### Final Exercise
 Add three new hats to the hats table.
 Select all the hats that are made of felt.
