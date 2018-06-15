@@ -22,6 +22,7 @@ create table hats (
 
 #### PostgreSQL commands: insert into
 Adds records into a table with supplied information.
+
 insert into hats values ('sun hat', 'straw', 7, true);
 
 insert into hats (name, material, height, brim) values
@@ -32,21 +33,22 @@ insert into hats (name, material, height, brim) values
   ('chicken', 'bwuk bwuk bwuk', 12, false);
 
 
-
- (Links to an external site.)Links to an external site.PostgresSQL commands: select, where
+#### PostgresSQL commands: select, where
 Retrieves information from a table, optionally given conditions.
+
 select * from hats;
 select * from hats where name = 'top hat';
 select count(*) from hats;
 
- (Links to an external site.)Links to an external site.PostgreSQL commands: delete from
+#### PostgreSQL commands: delete from
 Removes data from a table that meet given conditions.
+
 delete from hats where name = 'chicken';
 
- (Links to an external site.)Links to an external site.PostgreSQL commands: alter
-Modify a table.
+#### PostgreSQL commands: alter
+
 alter table hats add column price integer;
 
- (Links to an external site.)Links to an external site.Exercise
+#### Finally
 Add three new hats to the hats table.
 Select all the hats that are made of felt.
