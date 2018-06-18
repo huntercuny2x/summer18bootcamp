@@ -13,3 +13,8 @@
 [Day 10](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%2010/templatingEngines)
 
 [Day 11](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%2011/List)
+
+Final Project Ideas:
+  1. 
+  2.
+  3. 
