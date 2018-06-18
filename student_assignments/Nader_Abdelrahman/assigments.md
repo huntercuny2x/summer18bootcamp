@@ -14,7 +14,7 @@
 
 [Day 11](https://github.com/NaderAbdelrahman/cuny2x/tree/master/Day%2011/List)
 
-Final Project Ideas:
-  1. 
-  2.
-  3. 
+>Final Project Ideas:
+>  1. 
+>  2.
+>  3. 
