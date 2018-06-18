@@ -68,17 +68,17 @@ Mini project: Programming problems [Eloquent JS](http://eloquentjavascript.net/)
 * Mini Express project #2: Rendering a list with variable routes
 * Reading and writing to JSON files
 
-#### Day 12: Databases: SQL + Postgres
+#### Day 12: Databases: Postgres + MongoDB
 
-#### Day 13: More Databases + Test Driven Development Lesson
+#### Day 13: More Databases: querying postgres and intro to routing
 
-#### Day 14: Promises + API calls
+#### Day 14: Continued Routing + Test Driven Development
 
-#### Day 15: Soft skills training: Technical Presentations, Code Reviews and Collaboration in the Workplace
+#### Day 15: Soft skills training: Technical Presentations, Code Reviews and Collaboration
 
 #### Day 16-18: Project building
 
-#### Day 19: Student presentations: Room 1203E from 2-4pm
+#### Day 19: Project Deployment, Student presentations: Room 1203E from 2-4pm
 
 
 Teaching Methodology
