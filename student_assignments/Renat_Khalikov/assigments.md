@@ -11,3 +11,13 @@
 [Day7 (To-Do App)](https://github.com/renkh/cuny2x/tree/master/day5/my_app)
 
 [Day8 (Social News)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day7/social_news)
+
+[Day9 (Twitter Bot) @@catbot488](https://github.com/renkh/Twitter-Bot)
+
+[Day10 (Express app)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day10)
+
+[Day11 (express app](https://github.com/renkh/Express-web-framework)
+
+[Day11 (weather app)](https://github.com/renkh/cuny2x/tree/master/day12/weatherapp)
+
+[Day13 (sql)](https://github.com/renkh/cuny2x/tree/master/day13/database)

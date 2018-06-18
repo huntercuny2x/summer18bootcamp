@@ -1,0 +1,6 @@
+* [Handlebars](https://handlebarsjs.com/)
+* [Pug](https://github.com/pugjs/pug)
+* [EJS](http://ejs.co/)
+* [Getting Started with Pug](https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33)
+* [Getting Started with Handlebars](http://blog.teamtreehouse.com/getting-started-with-handlebars-js)
+* [More on Ejs](https://www.npmjs.com/package/ejs)
