@@ -22,3 +22,8 @@
 [Day 11 JSON](https://github.com/pacqu/cuny2xworkshops/tree/master/day11/expressJSON)
 
 [Day 12 PSQL Exercises](https://github.com/pacqu/cuny2xworkshops/blob/master/day12/answers.txt)
+
+### Final Project Ideas
+* World Cup/Sports Messenger Bot
+* MTA Route Planner & Alerts
+* Research Wikipedia articles and related articles from other Websites
