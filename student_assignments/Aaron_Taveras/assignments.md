@@ -26,3 +26,9 @@
 [Day 12 Weather App](https://github.com/aarondtaveras/cuny2x/tree/master/express_mini_project/weather_app)
 
 [Day 13 PSQL solutions](https://github.com/aarondtaveras/cuny2x/blob/master/sqlite_demo/starwarsPSQL/psql_solutions)
+
+[Final Project Ideas:
+	1. Photoshop Web App (Image Processing
+	2. Marketplace Web App (Craigslist Type)
+	3. In-browser Terminal
+]
