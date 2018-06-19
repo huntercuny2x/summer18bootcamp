@@ -23,3 +23,10 @@ Day 11: (Front-End List Assignment) https://github.com/zyuzon24/TTP_Projects/tre
 Day 12: (Weather App and other Practice with Express) https://github.com/zyuzon24/TTP_Projects/tree/master/Day_12_Practice
 
 Day 13: (Star Wars PSQL Assignment) https://github.com/zyuzon24/TTP_Projects/blob/master/Day_13_Practice/README.md
+
+Final Project Idea:
+The app works like Kickstarter where people can create campaigns and ask for people to contribute money to their idea.
+Unlike Kickstarter, the contributers/backers of the campaign can control how the creator spends the money.
+The app is aimed for anybody who is looking for funding to get a product created.
+The user input would be description of the campaign, the minimum amount of currency that people would have to contribute in order to be considered a contributer, a description for a spending request, the amount of money to be used for a spending request, who the money will be sent to in the spending request, etc.
+The Chrome extension MetaMask will be necessary in order to connect to the Ethereum Network where the test network Rinkeby will be used in order to add transactions to the blockchain.
