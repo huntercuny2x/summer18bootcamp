@@ -29,3 +29,5 @@
 [Day 12 Todo with backend](https://github.com/Zabari/cuny2x/tree/master/expRe)
 
 [Day 13 psql excercise](https://github.com/Zabari/cuny2x/blob/master/sql/answers.txt)
+
+Final Project Ideas: 1. Online Photo Editor 2. Marketplace 3. Terminal
