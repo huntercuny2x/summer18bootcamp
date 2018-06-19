@@ -22,10 +22,10 @@
 [Social News (w/ Renat)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day07/social_news)
 
 # Day 9
-Twitter Bot {incomplete}
+[Twitter Bot](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day09/twitbotinator)
 
 # Day 10
-[PUG, HBS, EJS (w/ Renat){in progress}](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day10)
+[PUG, HBS, EJS (w/ Renat)](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day10)
 
 # Day 12
 [weather-app](https://github.com/Dan-Naeem/cuny2x/tree/master/assignments/day12/weather-app)
