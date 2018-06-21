@@ -6,6 +6,8 @@
 
 [Deploying a React App with a Server *includes npm run build*](https://www.fullstackreact.com/articles/deploying-a-react-app-with-a-server/)
 
+[Deployng node.js + postgres App to Heroku](https://medium.com/@aem_iro/deploying-a-node-js-postgressql-app-to-heroku-hosting-platform-cc611287ae76)
+
 [Deploying with Firebase](https://firebase.google.com/docs/hosting/deploying)
 
 [Deployment with Digital Ocean](https://www.digitalocean.com/community/tags/deployment?type=tutorials)
