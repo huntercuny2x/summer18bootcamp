@@ -4,3 +4,8 @@
 [Assignment 4](https://github.com/zyuzon24/JukeboxProject)
 [Day 7- todo](https://github.com/aishak7/TTP/tree/master/todo_app)
 [Day 8- social media](https://github.com/Yasmeenerm/cuny2xTeamProject/tree/master/social_media)
+[Day 9- twitterbot](https://github.com/aishak7/TTP/tree/master/Twitterbot_nodeBot)
+[Day 10- express](https://github.com/aishak7/TTP/tree/master/Day%2010-%20Templating%20with%20Express)
+[Day 12- weather app](https://github.com/aishak7/TTP/tree/master/Day_12_weather_app_express)
+[Day 12- writing data](https://github.com/aishak7/TTP/tree/master/Day%2012_Writing_data)
+[Day 13- PSQL](https://github.com/aishak7/TTP/tree/master/Day%2013%20PSQL%20)

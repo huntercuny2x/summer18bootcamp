@@ -3,4 +3,4 @@
 [Assignment 3](https://github.com/aishak7/TTP/tree/master/Assignment%203)
 [Assignment 4](https://github.com/zyuzon24/JukeboxProject)
 [Day 7- todo](https://github.com/aishak7/TTP/tree/master/todo_app)
-
+[Day 8- social media](https://github.com/Yasmeenerm/cuny2xTeamProject/tree/master/social_media)
